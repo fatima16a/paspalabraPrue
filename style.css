@@ -1,6 +1,10 @@
 body{
-    background-color: rgb(255, 99, 71);
+    background-image: url(https://dhb3yazwboecu.cloudfront.net/270/vallejo/premium/colores/015_l.jpg);
     display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
 }
 
 h1{
